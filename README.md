@@ -1,7 +1,7 @@
 # Backend-Development-Class-Module-Breakdown
-**Tutorial Consoderations:**
+**Tutorial Considerations:**
 
-*   **Learning Pace:** This is a *fast* pace.  Adjust based on the students' backgrounds and aptitude.
+*   **Learning Pace:** This is a *slow* pace.  Adjust based on the students' backgrounds and aptitude.
 *   **Hands-on Projects:**  Each module *must* include a significant hands-on project that reinforces the concepts learned.  Smaller exercises throughout the module are also critical.
 *   **Tools:**  Ensure students have access to appropriate IDEs (VS Code, IntelliJ IDEA Community Edition), Node.js, Kotlin SDK, and a database (PostgreSQL recommended).
 *   **Focus on Fundamentals:** Prioritize understanding over memorization. Explain the *why* behind the *how*.
